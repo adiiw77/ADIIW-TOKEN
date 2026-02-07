@@ -28,7 +28,7 @@ def print_banner():
     banner = f"""
 {Colors.CYAN}{Colors.BOLD}
 ╔═══════════════════════════════════════════════════════════╗
-║        🔐 FACEBOOK TOKEN EXTRACTOR 🔐                    ║
+║        ❤‍🩹 MR ADIIW TOKEN EXTRACTOR ❤‍🩹                    ║
 ╚═══════════════════════════════════════════════════════════╝
 {Colors.END}
     """
